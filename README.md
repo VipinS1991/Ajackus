@@ -27,5 +27,5 @@ Follow the steps below to get started with the project.
 
 1. **Clone the repository**:
    ```bash
-   git clone 
+   git clone https://github.com/VipinS1991/Ajackus/tree/master
    cd user-management-app
