@@ -29,3 +29,4 @@ Follow the steps below to get started with the project.
    ```bash
    git clone https://github.com/VipinS1991/Ajackus/tree/master
    cd user-management-app
+![user_management](https://github.com/user-attachments/assets/d979a490-117e-461d-945c-f3915dc54914)
